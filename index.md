@@ -20,10 +20,8 @@
 
 - Team profile（团队组建）
 
-  团建工作通常包括两个部分：团建组建与职责分配， 沟通渠道建设。
+  [团建工作](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/Team%20profile.md)通常包括两个部分：团建组建与职责分配， 沟通渠道建设。
   
-  具体内容可见[Team profile.md](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/Team%20profile.md)
-
 - Investigation（项目前期调研）
 
   此处应该是lesson3里面的第二项：产品调查报告
