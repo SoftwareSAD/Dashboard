@@ -6,7 +6,7 @@
 
 ## 任务1：介绍产品调查结果
 
-[click](/Inception/Investigation.md)
+[项目前期调研](/Inception/Investigation.md)
 
 
 ## 任务2：产品讨论 
