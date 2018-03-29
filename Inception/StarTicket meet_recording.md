@@ -31,6 +31,11 @@
 
 ![zhangshujin](/img/susie_meeting_recording.PNG)
 
+邹伊宁
+
+![zouyining](/img/eileen_meeting_record_1.PNG)
+
+
 ## 任务3：定义产品
 
 按用户，利益、业务故事名称定义产品的服务范围（6~8个业务）
