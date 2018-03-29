@@ -27,6 +27,10 @@
 
 ![YimZhang](/img/YimZhang_meeting_record_1.png)
 
+张舒瑾
+
+![zhangshujin](susie_meeting_recording.png)
+
 ## 任务3：定义产品
 
 按用户，利益、业务故事名称定义产品的服务范围（6~8个业务）
