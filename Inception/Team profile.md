@@ -25,7 +25,11 @@
 | 15331398| 张萌杰 | Mengjie Zhang|Python工程师、架构师、UX设计师 |
 | 15331397 | 张漫榕 | Manrong Zhang| Python工程师、客户经理 |
 | 15331406 | 张音 | Yim Zhang | 客户经理、UI/UX设计师 |
+<<<<<<< HEAD
 | 15331367 | 杨羽菲 | Yufei Yang | 前端工程师、QA工程师|
+=======
+| 15331449 | 邹伊宁 | Eileen Zou | Python工程师、DevOps工程师 |
+>>>>>>> e50b9d0b79765e9abbd3de7b2db1ee82c07d0e8e
 ||||
 
 
@@ -65,7 +69,11 @@ DevOps 工程师要求：通过开发，支持开发环境、生产环境高效�
 |张萌杰|后端开发与用户体验设计| 大家都很星※ |
 |张漫榕| 负责项目的后端技术开发，配置项目的分布式部署| 你们别想淘汰我！|
 |张音| UI设计，前端框架学习及开发 | 我觉得开星 |
+<<<<<<< HEAD
 |杨羽菲| 学习前端框架，使用前端技术实现具体网页|喵喵喵米奇妙妙屋！|
+=======
+|邹伊宁|后端开发，规划测试| 给这个项目出一份力！|
+>>>>>>> e50b9d0b79765e9abbd3de7b2db1ee82c07d0e8e
 |||
 
 案例：[示例](https://github.com/HYPJUDY/movie-ticket-and-service-website/blob/master/documents/2_team_profile.md)
