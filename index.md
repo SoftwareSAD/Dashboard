@@ -34,18 +34,18 @@
   - 某个产品的典型业务实现的过程，核心界面
   - 可能存在的新机遇（例如，AI技术发展，给改进这类产品来带了新机会，所以我们打算...
   
-  详细产品调研报告及结果可见[Investigation.md](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/Investigation.md)
+  详细产品调研报告及结果可见[Investigation.md](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/Investigation.md)
 
 - Vision（项目愿景）
 
-[Vision.md](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/Vision.md)中描述了经过产品讨论得到的项目愿景展望。
+  [Vision.md](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/Vision.md)中描述了经过产品讨论得到的项目愿景展望。
 
 - Product Backlog （产品特性）
 
-产品backlog是Scrum的核心，也是一切的起源。从根本上说，它就是一个需求、或故事、或特性等组成的列表，按照重要性的级别进行了排序。它里面包含的是客户想要的东西，并用客户的术语加以描述。我们叫它故事（story），有时候也叫做backlog条目。 
+  产品backlog是Scrum的核心，也是一切的起源。从根本上说，它就是一个需求、或故事、或特性等组成的列表，按照重要性的级别进行了排序。它里面包含的是客户想要的东西，并用客户的术语加以描述。我们叫它故事（story），有时候也叫做backlog条目。 
 
-我们在[Product Backing.md](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/Product%20Backing.md)进行了描述。
+  我们在[Product Backing.md](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/Product%20Backing.md)进行了描述。
 
 - StarTickets meet_recording
 
-我们开展了项目启动会议，并做了[详细的纪要](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/StarTicket%20meet_recording.md)。
+  我们开展了项目启动会议，并做了[详细的纪要](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/StarTicket%20meet_recording.md)。
