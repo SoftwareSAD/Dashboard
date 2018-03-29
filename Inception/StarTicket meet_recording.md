@@ -23,6 +23,9 @@
 
 ![ManrongZhang](/img/manrong.png)
 
+张音
+
+![YimZhang](/img/YimZhang_meeting_record_1.png)
 
 ## 任务3：定义产品
 
