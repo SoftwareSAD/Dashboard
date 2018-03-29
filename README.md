@@ -4,7 +4,7 @@ create dashboard!
 
 ##  Project site
 
-[click](ttps://pages.github.com/)
+[click](https://pages.github.com/)
 
 1. Repository Settings
 2. Theme chooser
