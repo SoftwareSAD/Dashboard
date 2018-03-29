@@ -6,7 +6,7 @@
 
 ## 任务1：介绍产品调查结果
 
-[前期调研](Investigation.md）
+[前期调研](./Investigation.md）
 
 ## 任务2：产品讨论 
 
