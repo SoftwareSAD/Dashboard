@@ -11,4 +11,4 @@ Go to pages.github.com [click](https://pages.github.com/)
 3. pick a theme
 4. edit content
 
-Our project: [click here!](https://softwaresad.github.io/dashboard/)
+Our project: [click here](https://softwaresad.github.io/Dashboard/)
