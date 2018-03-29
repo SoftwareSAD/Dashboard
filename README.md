@@ -4,9 +4,11 @@ create dashboard!
 
 ##  Project site
 
-[click](https://pages.github.com/)
+Go to pages.github.com [click](https://pages.github.com/)
 
 1. Repository Settings
 2. Theme chooser
 3. pick a theme
 4. edit content
+
+Our project: [click here](https://softwaresad.github.io/Dashboard/)
