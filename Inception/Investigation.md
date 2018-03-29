@@ -30,10 +30,12 @@
 | 淘票票 | 淘票票是集影视、演出、赛事的票务、资讯、互动等服务于一体的具备线上线下双向宣发能力的泛娱乐产业营销平台。 | 淘票票借力阿里，占据流量导流优势。淘票票对接支付宝APP、蚂蚁金服、口碑APP、高德地图、大麦等入口。因其具备淘宝、支付宝强大的流量入口和便捷交易手段支持,以及与淘宝商家联动营销优势,也在竞争中彰显出强健实力。 | 淘票条专业版在票房报告价值与影片库方面表现最为亮眼，其借助阿里系产品(优酷)的力量，为每部影片推出淘票票用户、专业版用户和优酷用户三类受众的画像，可在影片推广决策、受众分析等方面知道2游厂商。|
 
 ## 3. 相关产品的市场（客户）定位
-![Image text](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/image/user1.png)
-![Image text](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/image/user2.png)
+
 ![Image text](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/image/user3.png)
 ![Image text](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/image/user4.png)
+![Image text](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/image/user1.png)
+![Image text](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/image/user2.png)
+
 
 ## 4. 某个产品的典型业务实现的过程，核心界面
 
