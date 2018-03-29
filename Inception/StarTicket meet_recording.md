@@ -6,7 +6,8 @@
 
 ## 任务1：介绍产品调查结果
 
-[click here](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/Investigation.md）
+[click](/Inception/Investigation.md)
+
 
 ## 任务2：产品讨论 
 
