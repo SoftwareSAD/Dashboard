@@ -33,6 +33,7 @@
 
 (1) 用户年龄主要在24到30之间，性别比例基本持平。
 (2) 小镇青年占比较低，一线及超一线地区人群仍为主力，高消费人群占比最高。
+
 ![Image text](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/image/user1.png)
 ![Image text](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/image/user4.png)
 ![Image text](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/image/user2.png)
@@ -41,7 +42,12 @@
 
 ## 4. 某个产品的典型业务实现的过程，核心界面
 
+(1) 产业链结构
+
 ![Image text](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/image/industrial_structure.png)
+
+(2) 产品结构示例
+
 ![Image text](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/image/product1.png)
 ![Image text](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/image/product2.png)
 ![Image text](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/image/product3.png)
