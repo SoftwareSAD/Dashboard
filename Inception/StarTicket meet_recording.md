@@ -29,7 +29,7 @@
 
 张舒瑾
 
-![zhangshujin](susie_meeting_recording.png)
+![zhangshujin](/img/susie_meeting_recording.png)
 
 ## 任务3：定义产品
 
