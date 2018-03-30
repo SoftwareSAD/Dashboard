@@ -64,13 +64,16 @@ A Internet ticket purchase website.
 - 分析和设计(Analysis & Design)
 	- 页面参考：http://www.777moban.com/show_10_888.html
 - 实现(Implementation)
-	- 前端：学习[Bootstrap教程](www.runoob.com/bootstrap/bootstrap-tutorial.html)
+	- 前端：学习[Bootstrap教程](https://v4.bootcss.com/docs/4.0/getting-started/introduction/)
 	- 后端：学习[Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)以及[Flask教程](http://www.pythondoc.com/flask/quickstart.html#quickstart)
 - 测试(Test)
 - 部署(Deployment)
-	- 学习[Docker教程](http://www.runoob.com/docker/docker-tutorial.html)
+	- 学习[Docker教程](https://blog.kinpzz.com/2017/05/16/docker-ci-cd/)
+	- 学习[Travis CI持续集成](https://blog.kinpzz.com/2017/04/09/GitHub-Travis-CI/)
 - 配置和变更管理(Configuration & Change Management)
 - 项目管理(Project Management)
+	- 学习[如何在Windows下使用git管理GIthub](https://blog.csdn.net/luosaosao/article/details/63684470)
+	- 学习[Github团队项目合作流程](https://segmentfault.com/a/1190000009739770)
 - 环境(Environment)
 
 ### week 2
