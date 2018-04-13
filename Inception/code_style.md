@@ -35,7 +35,9 @@
 </span>
 ```
 推荐：
-`<img class = "avatar" src = "...">`
+```html
+<img class = "avatar" src = "...">
+```
 2. 属性声明顺序
 相关属性的声明应该归为一组，并按照下面的顺序排列：
 	1. Position
