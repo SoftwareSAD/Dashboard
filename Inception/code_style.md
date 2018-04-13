@@ -33,7 +33,7 @@
 <span class = "avatar">
 	<img src = "...">
 </span>
-``
+```
 推荐：
 `<img class = "avatar" src = "...">`
 2. 属性声明顺序
