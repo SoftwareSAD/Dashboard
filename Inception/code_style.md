@@ -25,13 +25,15 @@
 5. 缩进
 使用相同的缩进大小。2个空格或者制表符（Tab）。
 
+## HTML/CSS规范
 1. 减少标签的数量
 编写HTML代码时，为了增强代码的可读性，应该尽量避免多余的父元素。
 不推荐：
-`<span class = "avatar">
+``
+<span class = "avatar">
 	<img src = "...">
-</span>`
-
+</span>
+``
 推荐：
 `<img class = "avatar" src = "...">`
 2. 属性声明顺序
