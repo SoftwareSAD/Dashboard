@@ -48,16 +48,17 @@
 
 ### 6. Requirement specification（需求规格说明）
 
-- 6.1 Usecase Diagram
+- 6.1 [Usecase Diagram](https://github.com/SoftwareSAD/Dashboard/blob/master/img/UsecaseDiagram/usecase.png)
 
 ### 7. Design（设计）
     
 - 7.1 UI design
     
-    [用例UI设计]
+    [用例UI设计](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/UIdesign.md)
 
 ### 8. 生产规范与指南
 
+  我们制定的[代码规范](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/code_style.md)包括了web前端后端的基本规范和整体的一般规范。
 
 ### StarTickets meet_recording
 
@@ -65,4 +66,10 @@
 
 ### StarTickets Work Report
 
+- 学号-title
+- 学号-title
+- 学号-title
+- 学号-title
+- 学号-title
+- 学号-title
 - 学号-title
