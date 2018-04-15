@@ -6,7 +6,7 @@
 
 ## 团队作业清单
 
-- About（项目规划）
+### 1. About（项目规划）
 
   要求：
 
@@ -18,13 +18,13 @@
 
   项目规划每周更新一次
 
-- Team profile（团队组建）
+### 2. Team profile（团队组建）
 
   团建工作通常包括两个部分：团建组建与职责分配， 沟通渠道建设。
   
   详见[Team profile.md](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/Team%20profile.md)
   
-- Investigation（项目前期调研）
+### 3. Investigation（项目前期调研）
 
   此处应该是lesson3里面的第二项：产品调查报告
 
@@ -36,16 +36,33 @@
   
   详细产品调研报告及结果可见[Investigation.md](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/Investigation.md)
 
-- Vision（项目愿景）
+### 4. Vision（项目愿景）
 
   [Vision.md](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/Vision.md)中描述了经过产品讨论得到的项目愿景展望。
 
-- Product Backlog （产品特性）
+### 5. Product Backlog （产品特性）
 
   产品backlog是Scrum的核心，也是一切的起源。从根本上说，它就是一个需求、或故事、或特性等组成的列表，按照重要性的级别进行了排序。它里面包含的是客户想要的东西，并用客户的术语加以描述。我们叫它故事（story），有时候也叫做backlog条目。 
 
   我们在[Product Backing.md](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/Product%20Backing.md)进行了描述。
 
-- StarTickets meet_recording
+### 6. Requirement specification（需求规格说明）
+
+- 6.1 Usecase Diagram
+
+### 7. Design（设计）
+    
+- 7.1 UI design
+    
+    [用例UI设计]
+
+### 8. 生产规范与指南
+
+
+### StarTickets meet_recording
 
   我们开展了项目启动会议，并做了[详细的纪要](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/StarTicket%20meet_recording.md)。
+
+### StarTickets Work Report
+
+- 学号-title
