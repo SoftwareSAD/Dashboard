@@ -13,27 +13,27 @@
 
 赵寒旭：
 
-![HanxuZhao](/image/meeting1/HanxuZhao_meeting_record_1.png)
+![HanxuZhao](./image/meeting1/HanxuZhao_meeting_record_1.png)
 
 张萌杰：
 
-![MengjieZhang](/image/meeting1/MengjieZhang_meeting_record_1.png)
+![MengjieZhang](./image/meeting1/MengjieZhang_meeting_record_1.png)
 
 张漫榕：
 
-![ManrongZhang](/image/meeting1/manrong.png)
+![ManrongZhang](./image/meeting1/manrong.png)
 
 张音
 
-![YimZhang](/image/meeting1/YimZhang_meeting_record_1.png)
+![YimZhang](./image/meeting1/YimZhang_meeting_record_1.png)
 
 张舒瑾
 
-![zhangshujin](/image/meeting1/susie_meeting_recording.PNG)
+![zhangshujin](./image/meeting1/susie_meeting_recording.PNG)
 
 邹伊宁
 
-![zouyining](/image/meeting1/eileen_meeting_record_1.PNG)
+![zouyining](./image/meeting1/eileen_meeting_record_1.PNG)
 
 
 ## 任务3：定义产品
