@@ -48,7 +48,8 @@
 
 ### 6. Requirement specification（需求规格说明）
 
-- 6.1 [Usecase Diagram](https://github.com/SoftwareSAD/Dashboard/blob/master/img/UsecaseDiagram/usecase.png)
+- [6.1 Usecase Diagram](https://github.com/SoftwareSAD/Dashboard/blob/master/img/UsecaseDiagram/usecase.png)
+- [6.2 Use Cases](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/Use%20Case/6.2%20Use%20Cases.md)
 
 ### 7. Design（设计）
     
