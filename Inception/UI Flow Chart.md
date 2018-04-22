@@ -4,5 +4,5 @@
 
 UI Flow Chart
 
-![YimZhang](/img/UIDesign/UI_Flow_Chart.png)
+![UI_Flow_Chart](./image/UIDesign/UI_Flow_Chart.png)
 
