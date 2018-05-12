@@ -18,6 +18,7 @@
 - 距离
 - 配送时间
 - 优惠活动
+  
 此外，如接下来*ScreenShot3*、*ScreenShot4*、*ScreenShot5*显示，我们可以根据自己的选择定制页面。
 ![pic1](./img/taobao1.png)
 
