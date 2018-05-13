@@ -8,3 +8,15 @@
 
 **应用场景：客户下单购票**
 ![InesYim](./image/SSD/InesYim_buyTickets_SSD.png)
+
+![](https://github.com/SoftwareSAD/Dashboard/blob/master/img/SystemSequenceDiagram/ssd2-%E5%88%9B%E5%BB%BA%E8%AE%A2%E5%8D%95%E5%9C%BA%E6%99%AF.PNG)
+
+**应用场景：登录注册**
+
+![susie](https://github.com/SoftwareSAD/Dashboard/blob/master/img/SystemSequenceDiagram/ssd1-%E6%B3%A8%E5%86%8C%E7%99%BB%E5%BD%95%E5%9C%BA%E6%99%AF.PNG)
+
+**应用场景：选择影院/电影**
+
+![susie](https://github.com/SoftwareSAD/Dashboard/blob/master/img/SystemSequenceDiagram/ssd3-%E9%80%89%E6%8B%A9%E7%94%B5%E5%BD%B1or%E5%BD%B1%E9%99%A2.PNG)
+
+
