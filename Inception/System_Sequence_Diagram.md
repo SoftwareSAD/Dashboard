@@ -29,11 +29,11 @@
 
 ![zmj](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/image/SSD/MengjieZhang_Comments_SSD.png)
 
-<<<<<<< HEAD
+
 ### 15331416：
 **应用场景:小食预订**
 
-![SnackOrder]()
+![SnackOrder](https://github.com/SoftwareSAD/Dashboard/blob/master/img/SystemSequenceDiagram/ssd4-SnackOrder.png)
 
 #### 契约CO1：makeNewOrder
 操作： makeNewOrder()
@@ -100,6 +100,7 @@
 后置条件： 
 
 - Order.isConfirm被置为真（修改属性）
+
 =======
 ### 15331397:   
 **应用场景：众筹旧电影**
