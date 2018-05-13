@@ -2,10 +2,10 @@
 
 ## WEB前端
 * 语言：**HTML 5**、**CSS 3**、**JavaScript**
-* 前端框架： **Bootstrap**
+* 前端框架： **Bootstrap**、**Vue**
 * 代码风格：[HTML/CSS代码风格](http://iischajn.github.io/trans/htmlcss-guide/), [JS代码规范](http://usejsdoc.org)
 
-* IDE：Sublime Text 3
+* IDE：Sublime Text 3、WebStorm
 
 ## WEB后端
 * 语言：**Python 3.6**

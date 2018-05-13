@@ -12,33 +12,33 @@
 
 > 后续任务都包含在了思维导图内作为会议内容在此处展示
 
-赵寒旭：
+赵不听（15331416）：
 
-![HanxuZhao](./image/meeting1/HanxuZhao_meeting_record_1.png)
+![ButingZhao](./image/meeting1/HanxuZhao_meeting_record_1.png)
 
-张萌杰：
+ZMJ(15331398)：
 
-![MengjieZhang](./image/meeting1/MengjieZhang_meeting_record_1.png)
+![ZMJ](./image/meeting1/MengjieZhang_meeting_record_1.png)
 
-张漫榕：
+二师兄（15331397）：
 
-![ManrongZhang](./image/meeting1/manrong.png)
+![ShixiongEr](./image/meeting1/manrong.png)
 
-音
+音(15331406)
 
 ![InesYim](./image/meeting1/YimZhang_meeting_record_1.png)
 
-张舒瑾
+小皮筋（15331401）
 
-![zhangshujin](./image/meeting1/susie_meeting_recording.PNG)
+![PijingXiao](./image/meeting1/susie_meeting_recording.PNG)
 
-邹伊宁
+宁一(15331449)
 
-![zouyining](./image/meeting1/eileen_meeting_record_1.PNG)
+![Ningyi](./image/meeting1/eileen_meeting_record_1.PNG)
 
-杨羽菲
+谷沽呱(15331367)
 
-![YufeiYang](./image/meeting1/YufeiYang_metting_record_1.png)
+![GuguaGu](./image/meeting1/YufeiYang_metting_record_1.png)
 
 ## 任务3：定义产品
 
@@ -89,10 +89,10 @@
 - 学习Python+Flask+Bootstrap+mongoDB的使用
 - 进行购票功能原型开发、Web接口开发以及数据库设计
 ## 任务分工
-- 后端 ： 张萌杰、音
-- 前端 ： 杨羽菲、张舒瑾
-- 分布式部署 ： 张漫榕
-- 静态文件服务 ： 邹一宁、赵寒旭
+- 后端 ： ZMJ（15331398）、音（15331406）
+- 前端 ： 谷沽呱（15331367）、小皮筋（15331401）
+- 分布式部署 ： 二师兄（15331397）
+- 静态文件服务 ： 宁一（15331449）、赵不听（15331416）
 ## 迭代时长
 4周 （18/03/29-18/04/26）
 
@@ -110,9 +110,9 @@
 - 优化UI设计
 - 继续进行购票功能原型开发、Web接口开发以及数据库设计
 ## 任务分工
-- 后端 ： 张萌杰、音
-- 前端 ： 杨羽菲、张舒瑾
-- 分布式部署 ： 张漫榕
-- 静态文件服务 ： 邹一宁、赵寒旭
+- 后端 ： ZMJ（15331398）、音（15331406）
+- 前端 ： 谷沽呱（15331367）、小皮筋（15331401）
+- 分布式部署 ： 二师兄（15331397）
+- 静态文件服务 ： 宁一（15331449）、赵不听（15331416）
 ## 迭代时长
 4周 （18/04/26-18/05/24）
