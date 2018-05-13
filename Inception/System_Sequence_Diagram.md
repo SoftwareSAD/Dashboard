@@ -5,5 +5,5 @@
 * 请使用自己 git 账号体完成该任务（同时在文字中标明自己的学号）
 
 15331406:
-应用场景：商户首次管理界面
+应用场景：客户下单购票
 ![InesYim](./image/SSD/InesYim_buyTickets_SSD.png)
