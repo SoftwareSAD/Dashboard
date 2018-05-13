@@ -9,21 +9,27 @@
 **应用场景：客户下单购票**
 ![InesYim](./image/SSD/InesYim_buyTickets_SSD.png)
 
-![](https://github.com/SoftwareSAD/Dashboard/blob/master/img/SystemSequenceDiagram/ssd2-%E5%88%9B%E5%BB%BA%E8%AE%A2%E5%8D%95%E5%9C%BA%E6%99%AF.PNG)
+
+
+###15331401：
+
+**应用场景：客户下单购票**
+![susie](./image/SSD/15331401-ssd2-创建订单场景.PNG)
 
 **应用场景：登录注册**
 
-![susie](https://github.com/SoftwareSAD/Dashboard/blob/master/img/SystemSequenceDiagram/ssd1-%E6%B3%A8%E5%86%8C%E7%99%BB%E5%BD%95%E5%9C%BA%E6%99%AF.PNG)
+![susie](./image/SSD/15331401-ssd1-注册登录场景.PNG)
 
 **应用场景：选择影院/电影**
 
-![susie](https://github.com/SoftwareSAD/Dashboard/blob/master/img/SystemSequenceDiagram/ssd3-%E9%80%89%E6%8B%A9%E7%94%B5%E5%BD%B1or%E5%BD%B1%E9%99%A2.PNG)
+![susie](./image/SSD/15331401-ssd3-选择电影or影院.PNG)
 
 ### 15331398:
 **应用场景:评论/点赞评论**
 
 ![zmj](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/image/SSD/MengjieZhang_Comments_SSD.png)
 
+<<<<<<< HEAD
 ### 15331416：
 **应用场景:小食预订**
 
@@ -94,3 +100,9 @@
 后置条件： 
 
 - Order.isConfirm被置为真（修改属性）
+=======
+### 15331397:   
+**应用场景：众筹旧电影**
+
+![susie](./image/SSD/15331397-ssd5-order_old_movie.PNG)
+>>>>>>> fc1793c96af825d9ed2e70a3ec3869672f45ad58
