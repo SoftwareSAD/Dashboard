@@ -23,9 +23,9 @@
 
 ![ManrongZhang](./image/meeting1/manrong.png)
 
-张音
+音
 
-![YimZhang](./image/meeting1/YimZhang_meeting_record_1.png)
+![InesYim](./image/meeting1/YimZhang_meeting_record_1.png)
 
 张舒瑾
 
