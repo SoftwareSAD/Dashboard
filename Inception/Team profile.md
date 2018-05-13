@@ -26,7 +26,7 @@
 | 15331397 | 张漫榕 | Manrong Zhang| Python工程师、客户经理 |
 | 15331406 | 音 | Ines Yim | 客户经理、UI/UX设计师 |
 | 15331367 | 杨羽菲 | Yufei Yang | 前端工程师、QA工程师|
-| 15331449 | 邹伊宁 | Eileen Zou | Python工程师、DevOps工程师 |
+| 15331449 | 宁一 | Eileen Zou | Python工程师、DevOps工程师 |
 ||||
 
 
