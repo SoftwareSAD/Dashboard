@@ -23,3 +23,74 @@
 **应用场景:评论/点赞评论**
 
 ![zmj](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/image/SSD/MengjieZhang_Comments_SSD.png)
+
+### 15331416：
+**应用场景:小食预订**
+
+![SnackOrder]()
+
+#### 契约CO1：makeNewOrder
+操作： makeNewOrder()
+
+交叉引用：用例：小食预订
+
+前置条件： 无
+
+后置条件： 
+
+- 创建了Order的实例o（创建实例）
+- o被关联到Register(形成关联)
+- o的属性被初始化（修改属性）
+
+#### 契约CO2: enterItem
+
+操作： enterItem(itemID: ItenID, quantity: Interger)
+
+交叉引用：用例：小食预订
+
+前置条件：正在进行的小食预订
+
+后置条件： 
+
+- 创建了OrderLineItem的实例oli（创建实例）
+- oli被关联到当前Order(形成关联)
+- sli.quantity赋值为quantity（修改属性）
+- 基于itemID的匹配，oli被关联到ProductDescription（形成关联）
+
+#### 契约CO3: endOrder
+
+操作： endOrder()
+
+交叉引用：用例：小食预订
+
+前置条件：正在进行的小食预订
+
+后置条件： 
+
+- Order.isComplete被置为真（修改属性）
+
+#### 契约CO4: makePayment
+
+操作： makePayment(amount:Money)
+
+交叉引用：用例：小食预订
+
+前置条件：正在进行的小食预订
+
+后置条件： 
+
+- 创建了Payment的实例p（创建实例）
+- p.amountTendered被赋值为amount（修改属性）
+- p被关联到当前的Order（形成关联）
+
+#### 契约CO5: confirmOrder
+
+操作： confirmOrder()
+
+交叉引用：用例：小食预订
+
+前置条件：正在进行的小食预订
+
+后置条件： 
+
+- Order.isConfirm被置为真（修改属性）
