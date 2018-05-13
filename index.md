@@ -50,20 +50,31 @@
 
 - [6.1 Usecase Diagram](https://github.com/SoftwareSAD/Dashboard/blob/master/img/UsecaseDiagram/usecase.png)
 - [6.2 Use Cases](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/Use%20Case/6.2%20Use%20Cases.md)
+- [6.3 Domain Model](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/6.3%20Domain%20Model.md)
+- [6.4 State Model](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/6.4%20State%20Model.md)
+- [6.5 System Sequence Diagram](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/6.5%20System%20Sequence%20Diagram.md)
 
 ### 7. Design（设计）
     
-- 7.1 UI design
-    
-    [用例UI设计](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/UIdesign.md)
+- [7.1 UI design](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/UIdesign.md)
+- 7.2 Database design
+    + 7.2.1 用户及权限系统数据库设计
+    + 7.2.2 XX子系统数据课设计
+    + 7.2.x 第三方数据评审结果
+- 7.3 API设计
 
 ### 8. 生产规范与指南
 
-  我们制定的[代码规范](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/code_style.md)包括了web前端后端的基本规范和整体的一般规范。
+- 8.1 代码规范
+
+    我们制定的[代码规范](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/code_style.md)包括了web前端后端的基本规范和整体的一般规范。
+
+- 8.2 REST API 设计规范
 
 ### StarTickets meet_recording
 
-  我们开展了项目启动会议，并做了[详细的纪要](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/StarTicket%20meet_recording.md)。
+- [inception meeting (yy/mm/dd)](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/StarTicket%20meet_recording.md)
+- Iteration 1 meeting (yy/mm/dd)
 
 ### StarTickets Work Report
 
@@ -74,3 +85,10 @@
 - [15331401-系统分析Lesson5-Bootstrap学习报告](https://blog.csdn.net/s_mars/article/details/79954216)
 - [15331398-系统分析与设计作业五](https://mikqueenge.github.io/2018/04/15/系统分析与设计作业五/)
 - [15331367-项目工作总结](https://shimo.im/docs/GT4H4CtpoZgKO93b)
+
+### 建模练习
+
+  + XX1 XX应用
+  + XX2 建模要求
+  + XX3 建模者答案与评价
+
