@@ -1,3 +1,4 @@
+
 # 项目启动会议
 
 ## 会议目标：定义产品范围、愿景和核心业务
@@ -35,6 +36,9 @@
 
 ![zouyining](./image/meeting1/eileen_meeting_record_1.PNG)
 
+杨羽菲
+
+![YufeiYang](./image/meeting1/YufeiYang_metting_record_1.png)
 
 ## 任务3：定义产品
 
