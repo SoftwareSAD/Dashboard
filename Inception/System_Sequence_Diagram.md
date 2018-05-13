@@ -19,4 +19,7 @@
 
 ![susie](https://github.com/SoftwareSAD/Dashboard/blob/master/img/SystemSequenceDiagram/ssd3-%E9%80%89%E6%8B%A9%E7%94%B5%E5%BD%B1or%E5%BD%B1%E9%99%A2.PNG)
 
+### 15331398:
+**应用场景:评论/点赞评论**
 
+![zmj](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/image/SSD/MengjieZhang_Comments_SSD.png)
