@@ -69,7 +69,7 @@
 
     我们制定的[代码规范](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/code_style.md)包括了web前端后端的基本规范和整体的一般规范。
 
-- 8.2 REST API 设计规范
+- [8.2 REST API 设计规范](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/8.2%20RestAPI%20设计规范.md)
 
 ### StarTickets meet_recording
 
