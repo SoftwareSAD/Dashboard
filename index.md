@@ -74,7 +74,7 @@
 ### StarTickets meet_recording
 
 - [inception meeting (yy/mm/dd)](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/StarTicket%20meet_recording.md)
-- Iteration 1 meeting (yy/mm/dd)
+- [Iteration 1 meeting (yy/mm/dd)](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/Iteration%20meet%20recording.md)
 
 ### StarTickets Work Report
 
