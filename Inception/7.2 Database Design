@@ -1,0 +1,26 @@
+
+根据领域模型
+
+![领域模型](image/domain_model/领域模型.png)
+
+主要需要建表的数据项有 用户数据、电影、影院、电影评价、电影院评价、用户订单数据，另外经过分析，
+
+### 用户系统数据库设计
+
+![数据库模型1](image/7.2DatabaseDesign//DatabaseDesign1.png)
+
+
+### 影院/电影浏览与评价系统 数据库设计
+
+![数据库模型2](image/7.2DatabaseDesign//DatabaseDesign2.png)
+
+
+### 订票系统 数据库设计
+
+![数据库模型3](image/7.2DatabaseDesign//DatabaseDesign3_1.png)
+![数据库模型4](image/7.2DatabaseDesign//DatabaseDesign3_2.png)
+
+
+### 整体数据库设计如下图
+![数据库模型5](image/7.2DatabaseDesign//DatabaseDesign4.png)
+
