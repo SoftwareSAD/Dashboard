@@ -57,7 +57,7 @@
 ### 7. Design（设计）
     
 - [7.1 UI design](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/UIdesign.md)
-- 7.2 Database design
+- [7.2 Database design](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/7.2%20Database%20Design.md)
     + 7.2.1 用户及权限系统数据库设计
     + 7.2.2 XX子系统数据课设计
     + 7.2.x 第三方数据评审结果
