@@ -1,6 +1,5 @@
 > Hello!
-
-> 这是我们小组的第一次团队作业！
+> 这里是我们小组的团队作业清单！
 
 # Welcome to StarTickets!
 
