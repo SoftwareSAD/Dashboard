@@ -47,7 +47,7 @@
 
 ### 6. Requirement specification（需求规格说明）
 
-- [6.1 Usecase Diagram](https://github.com/SoftwareSAD/Dashboard/blob/master/img/UsecaseDiagram/usecase.png)
+- [6.1 Usecase Diagram](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/image/UsecaseDiagram/usecase.png)
 - [6.2 Use Cases](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/Use%20Case/6.2%20Use%20Cases.md)
 - [6.3 Domain Model](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/6.3%20Domain%20Model.md)
 - [6.4 State Model](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/6.4%20State%20Model.md)
