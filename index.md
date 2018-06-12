@@ -53,6 +53,7 @@
 - [6.3 Domain Model](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/6.3%20Domain%20Model.md)
 - [6.4 State Model](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/6.4%20State%20Model.md)
 - [6.5 System Sequence Diagram](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/6.5%20System%20Sequence%20Diagram.md)
+- [6.6 Supplementary Requirements](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/6.6%20Supplementary%20Requirements.md)
 
 ### 7. Design（设计）
     
@@ -62,6 +63,7 @@
     + 7.2.2 XX子系统数据课设计
     + 7.2.x 第三方数据评审结果
 - [7.3 API设计](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/7.3%20API%20Design.md)
+- [7.4 Software Architecture Document](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/7.4%20Software%20Architecture%20Document%20.md)
 
 ### 8. 生产规范与指南
 
