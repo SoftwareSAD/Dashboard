@@ -63,14 +63,14 @@
     + 7.2.x 第三方数据评审结果
 - [7.3 API设计](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/7.3%20API%20Design.md)
 - [7.4 Software Architecture Document](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/7.4%20Software%20Architecture%20Document%20.md)
+- [7.5 Usecase design](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/7.5%20UsecaseDesign.md)
 
 ### 8. 生产规范与指南
 
 - [8.1 代码规范](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/8.1%20code%20style.md)
-
-    我们制定的代码规范包括了web前端后端的基本规范和整体的一般规范。
-
 - [8.2 REST API 设计规范](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/8.2%20RestAPI%20设计规范.md)
+- [8.3 解释框架目录设计与逻辑架构与 ECB 的关系](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/8.3%20ECB%E6%A8%A1%E5%BC%8F.md)
+- [8.4 项目部署](https://github.com/SoftwareSAD/StaticPageServer/blob/master/README.md)
 
 ### StarTickets meet_recording
 
