@@ -2,6 +2,8 @@
 > 这里是我们小组的团队作业清单！
 
 # Welcome to StarTickets!
+[购票网站demo视频](https://www.bilibili.com/video/av26003604
+)
 
 ## 团队作业清单
 
