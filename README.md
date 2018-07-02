@@ -16,3 +16,5 @@ Our pages: [click here](https://softwaresad.github.io/Dashboard/)
 ## 项目代码
 
 Our project: [click here](https://github.com/SoftwareSAD/StaticPageServer)
+
+Our project online (v1): [click here](http://120.77.37.156/)
