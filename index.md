@@ -48,7 +48,7 @@
 
 ### 6. Requirement specification（需求规格说明）
 
-- [6.1 Usecase Diagram](/Inception/image/UsecaseDiagram/usecase.png)
+- [6.1 Usecase Diagram](/Inception/6.1_Usecase_Diagram)
 - [6.2 Use Cases](/Inception/Use_Case/6.2_Use_Cases.md)
 - [6.3 Domain Model](/Inception/6.3_Domain_Model.md)
 - [6.4 State Model](/Inception/6.4_State_Model.md)
