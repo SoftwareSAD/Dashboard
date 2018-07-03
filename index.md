@@ -22,7 +22,7 @@
 
   团建工作通常包括两个部分：团建组建与职责分配， 沟通渠道建设。
   
-  详见[Team profile.md](/Inception/Team profile.md)
+  详见[Team profile.md](/Inception/Team_profile.md)
   
 ### 3. Investigation（项目前期调研）
 
@@ -44,39 +44,39 @@
 
   产品backlog是Scrum的核心，也是一切的起源。从根本上说，它就是一个需求、或故事、或特性等组成的列表，按照重要性的级别进行了排序。它里面包含的是客户想要的东西，并用客户的术语加以描述。我们叫它故事（story），有时候也叫做backlog条目。 
 
-  我们在[Product Backing.md](/Inception/Product%20Backing.md)进行了描述。
+  我们在[Product Backing.md](/Inception/Product_Backing.md)进行了描述。
 
 ### 6. Requirement specification（需求规格说明）
 
 - [6.1 Usecase Diagram](/Inception/image/UsecaseDiagram/usecase.png)
-- [6.2 Use Cases](/Inception/Use%20Case/6.2%20Use%20Cases.md)
-- [6.3 Domain Model](/Inception/6.3%20Domain%20Model.md)
-- [6.4 State Model](/Inception/6.4%20State%20Model.md)
-- [6.5 System Sequence Diagram](/Inception/6.5%20System%20Sequence%20Diagram.md)
-- [6.6 Supplementary Requirements](/Inception/6.6%20Supplementary%20Requirements.md)
+- [6.2 Use Cases](/Inception/Use_Case/6.2_Use_Cases.md)
+- [6.3 Domain Model](/Inception/6.3_Domain_Model.md)
+- [6.4 State Model](/Inception/6.4_State_Model.md)
+- [6.5 System Sequence Diagram](/Inception/6.5_System_Sequence_Diagram.md)
+- [6.6 Supplementary Requirements](/Inception/6.6_Supplementary_Requirements.md)
 
 ### 7. Design（设计）
     
 - [7.1 UI design](/Inception/UIdesign.md)
-- [7.2 Database design](/Inception/7.2%20Database%20Design.md)
+- [7.2 Database design](/Inception/7.2_Database_Design.md)
     + 7.2.1 用户及权限系统数据库设计
     + 7.2.2 XX子系统数据课设计
     + 7.2.x 第三方数据评审结果
-- [7.3 API设计](/Inception/7.3%20API%20Design.md)
-- [7.4 Software Architecture Document](/Inception/7.4%20Software%20Architecture%20Document%20.md)
-- [7.5 Usecase design](/Inception/7.5%20UsecaseDesign.md)
+- [7.3 API设计](/Inception/7.3_API_Design.md)
+- [7.4 Software Architecture Document](/Inception/7.4_Software_Architecture_Document_.md)
+- [7.5 Usecase design](/Inception/7.5_UsecaseDesign.md)
 
 ### 8. 生产规范与指南
 
-- [8.1 代码规范](/Inception/8.1%20code%20style.md)
-- [8.2 REST API 设计规范](/Inception/8.2%20RestAPI%20设计规范.md)
-- [8.3 解释框架目录设计与逻辑架构与 ECB 的关系](/Inception/8.3%20ECB%E6%A8%A1%E5%BC%8F.md)
+- [8.1 代码规范](/Inception/8.1_code_style.md)
+- [8.2 REST API 设计规范](/Inception/8.2_RestAPI_设计规范.md)
+- [8.3 解释框架目录设计与逻辑架构与 ECB 的关系](/Inception/8.3_ECB%E6%A8%A1%E5%BC%8F.md)
 - [8.4 项目部署](https://github.com/SoftwareSAD/StaticPageServer/blob/master/README.md)
 
 ### StarTickets meet_recording
 
-- [inception meeting (yy/mm/dd)](/Inception/StarTicket%20meet_recording.md)
-- [Iteration 1 meeting (yy/mm/dd)](/Inception/Iteration%20meet%20recording.md)
+- [inception meeting (yy/mm/dd)](/Inception/StarTicket_meet_recording.md)
+- [Iteration 1 meeting (yy/mm/dd)](/Inception/Iteration_meet_recording.md)
 
 ### StarTickets Work Report
 
