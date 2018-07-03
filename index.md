@@ -22,7 +22,7 @@
 
   团建工作通常包括两个部分：团建组建与职责分配， 沟通渠道建设。
   
-  详见[Team profile.md](/Inception/Team%20profile.md)
+  详见[Team profile.md](/Inception/Team profile.md)
   
 ### 3. Investigation（项目前期调研）
 
