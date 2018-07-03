@@ -34,23 +34,23 @@
 (1) 用户年龄主要在24到30之间，性别比例基本持平。
 (2) 小镇青年占比较低，一线及超一线地区人群仍为主力，高消费人群占比最高。
 
-![Image text](/Inception/image/user1.png)
-![Image text](/Inception/image/user4.png)
-![Image text](/Inception/image/user2.png)
-![Image text](/Inception/image/user3.png)
+![Image text](./image/user1.png)
+![Image text](./image/user4.png)
+![Image text](./image/user2.png)
+![Image text](./image/user3.png)
 
 
 ## 4. 某个产品的典型业务实现的过程，核心界面
 
 (1) 产业链结构
 
-![Image text](/Inception/image/industrial_structure.png)
+![Image text](./image/industrial_structure.png)
 
 (2) 产品结构示例
 
-![Image text](/Inception/image/product1.png)
-![Image text](/Inception/image/product2.png)
-![Image text](/Inception/image/product3.png)
+![Image text](./image/product1.png)
+![Image text](./image/product2.png)
+![Image text](./image/product3.png)
 
 
 ## 5. 可能存在的新机遇

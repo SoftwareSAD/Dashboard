@@ -57,7 +57,7 @@
 
 ### 7. Design（设计）
     
-- [7.1 UI design](/Inception/UIdesign.md)
+- [7.1 UI design](/Inception/7.1_UI_design.md)
 - [7.2 Database design](/Inception/7.2_Database_Design.md)
     + 7.2.1 用户及权限系统数据库设计
     + 7.2.2 XX子系统数据课设计
