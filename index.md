@@ -2,8 +2,7 @@
 > 这里是我们小组的团队作业清单！
 
 # Welcome to StarTickets!
-[购票网站demo视频](https://www.bilibili.com/video/av26003604
-)
+[购票网站demo视频](https://www.bilibili.com/video/av26003604)
 
 ## 团队作业清单
 
@@ -11,7 +10,7 @@
 
   要求：
 
-  建立一个 [About.md](https://github.com/SoftwareSAD/Dashboard/blob/master/Inception/About.md) 文档规划整个项目。
+  建立一个 [About.md](/Inception/About.md) 文档规划整个项目。
 
   规划分为一个 Inception 和 若干迭代构成，每个迭代按 UP 工作流组织。
 
